@@ -13,5 +13,6 @@ public class Hello {
         System.out.println("Hello,git!3");
         System.out.println("hotfix-test");
         System.out.println("push -test");
+        System.out.println("pull -test");
     }
 }
